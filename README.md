@@ -1,4 +1,5 @@
 # FunFreeStuffInConnecticutNewHavenYale
+A curated list of fun and interesting free stuff in Connecticut, New Haven and Yale.
 
 - Yale
   - Instructions: for each resource
@@ -57,9 +58,9 @@
   - Misc
     - [OneDrive 1TB](https://onedrive.live.com/): use @yale.edu email
     - [Office 365](https://dgsdtech.yale.edu/software/microsoft-office/) (both local and online)
-    - [GitHub Student](https://education.github.com/pack)
+    - [GitHub Student](https://education.github.com/pack): use @yale.edu email
     - [Wolfram Mathematica](https://www.wolfram.com/mathematica/): use [software hub](http://software.yale.edu/)
-    - [OverLeaf](https://www.overleaf.com/): use with @yale.edu
+    - [OverLeaf](https://www.overleaf.com/): use @yale.edu email
     - [Examine.com](Examine.com) (health research): use @yale.edu email
   - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html): use [software hub](http://yale.onthehub.com/)
     - Photoshop
