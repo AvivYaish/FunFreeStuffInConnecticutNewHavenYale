@@ -1,2 +1,113 @@
 # FunFreeStuffInConnecticutNewHavenYale
-A curated list of fun and interesting free stuff in Connecticut, New Haven and Yale
+
+- Yale
+  - Instructions: for each resource
+    - Check if Yale has a special sign-in link
+    - Try using your @yale.edu email
+    - See if there is an "access your institution" login option
+    - Use VPN
+      - Follow [guide](https://docs.ycrc.yale.edu/clusters-at-yale/access/vpn/)
+      - Can also use [OpenConnect](https://gui.openconnect-vpn.net/) as an open source alternative
+      - Android has a Cisco VPN client, too
+  - Books
+    - [OverDrive](https://yale.overdrive.com/)
+    - [Libby](https://guides.library.yale.edu/ebooks/overdrive)
+    - [O'Reilly](https://www.oreilly.com/library-access): select "Not listed? Click here" and use @yale.edu email
+    - [ProQuest Ebook Central](https://guides.library.yale.edu/ebooks/EbookCentral)
+  - Film
+    - [Kanopy](http://yale.kanopy.com/)
+    - [Swank](https://library.yale.edu/eresources/access/access-digital-campus)
+    - [Alexander Street](https://video.alexanderstreet.com/)
+    - [Aviary](https://yalefilm.aviaryplatform.com/)
+    - [More](https://web.library.yale.edu/film/film-resources)
+  - Music
+    - [Met Opera on Demand](https://ondemand.metopera.org/)
+    - [Berliner Philharmoniker](https://library.yale.edu/eresources/access/access-berliner-philharmoniker-digital-concert-hall)
+    - [DRAM](http://proxy.dramonline.org.yale.idm.oclc.org/)
+    - [medici.tv](https://edu-medici-tv.yale.idm.oclc.org/en)
+    - [medici.tv Jazz](https://edu-medici-tv.yale.idm.oclc.org/en/jazz/)
+    - [Naxos Music Library](http://yale.naxosmusiclibrary.com/): use VPN 
+    - [Naxos Music Library Jazz](http://yale.naxosmusiclibrary.com/jazz/): use VPN 
+    - [Alexander Street Music Online](https://search-alexanderstreet-com.yale.idm.oclc.org/musc)
+    - [Yale's Music Library](https://yalemusiclib.aviaryplatform.com/)
+    - [Yale's AV Collection](https://avcollections.library.yale.edu/)
+    - General resources
+      - https://web.library.yale.edu/music/audio-databases
+      - https://guides.library.yale.edu/music-research/online-recordings
+      - https://guides.library.yale.edu/music-research/online-video-yale
+      - https://guides.library.yale.edu/music-research/free-streaming-video
+  - Theatre
+    - [Digital theatre plus](https://edu-digitaltheatreplus-com.yale.idm.oclc.org/)
+    - [Drama Online](https://www-dramaonlinelibrary-com.yale.idm.oclc.org/)
+  - News
+    - [New York Times](https://ask.library.yale.edu/faq/174871)
+    - [Washington Post](https://library.yale.edu/eresources/access/access-washington-post)
+    - [The Atlantic](https://library.yale.edu/eresources/access/access-the-atlantic)
+    - [Haaretz](https://www.haaretz.co.il/): use VPN
+    - [Financial Times](https://library.yale.edu/eresources/access/access-financial-times)
+    - [Bloomberg](https://library.yale.edu/eresources/access/access-bloombergcom)
+    - [Wall Street Journal](https://library.yale.edu/eresources/access/access-wall-street-journal)
+    - [The Economist](https://library.yale.edu/eresources/access/access-economist)
+    - [Scientific American](https://www-scientificamerican-com.yale.idm.oclc.org/page/institutional-access/)
+  - AI
+    - [Yale Clarity](https://ai.yale.edu/yales-ai-tools-and-resources/clarity-platform) (ChatGPT 4o)
+    - [Microsoft 365 Copilot](https://ai.yale.edu/yales-ai-tools-and-resources/copilot-with-data-protection)
+    - [VSCode Copilot](https://education.github.com/pack): use GitHub Student
+    - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) (Illustrator has an AI image generator): use [software hub](http://yale.onthehub.com/)
+  - Misc
+    - [OneDrive 1TB](https://onedrive.live.com/): use @yale.edu email
+    - [Office 365](https://dgsdtech.yale.edu/software/microsoft-office/) (both local and online)
+    - [GitHub Student](https://education.github.com/pack)
+    - [Wolfram Mathematica](https://www.wolfram.com/mathematica/): use [software hub](http://software.yale.edu/)
+    - [OverLeaf](https://www.overleaf.com/): use with @yale.edu
+    - [Examine.com](Examine.com) (health research): use @yale.edu email
+  - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html): use [software hub](http://yale.onthehub.com/)
+    - Photoshop
+    - Stock (stock vector graphics, images, etc.)
+    - Illustrator (AI image generator)
+    - Premier (subtitle generation)
+- Yale Alumni Association
+  - Instructions: follow [guide](https://alumni.yale.edu/your-alumni-association/alumni-benefits)
+    - The definition of 'alumni' is broad: postdocs, spouses, staff, etc., including *existing* affiliates!
+  - [Yale Alumni Magazine](https://yalealumnimagazine.com/)
+  - [Yale Mastercard](https://www.firstbankcard.com/yale/lp/banner/index.html)
+  - [Learning resources](https://alumni.yale.edu/learn/learn-online) (e.g., JSTOR, Hein Online)
+  - E-Mail: permanent <your-choice>@aya.yale.edu address (useful: @yale.edu emails close after affiliation ends)
+
+- New Haven Free Public Library
+  - Instructions:
+    - Follow [guide](https://nhfpl.org/how-do-i/borrow/library-cards) for free membership for New Haven residents
+    - Follow [guide](https://nhfpl.org/how-do-i/research/e-resources/) for online access
+  - Film
+    - [Kanopy](https://www.kanopy.com/)
+    - [Hoopla](http://hoopladigital.com/)
+  - Books
+    - [Libby](https://libbyapp.com/library/nhfpl)
+    - [FREADING](https://cityofnewhaven.freading.com/)
+    - [OverDrive](https://nhfpl.overdrive.com/)
+    - [The Palace Project](https://thepalaceproject.org/platform/)
+  - Misc
+    - [LinkedIn Learning](https://www.linkedin.com/learning-login/go/nhfpl)
+    - [EBSCO LearningExpress](https://learningexpresshub.com/?Authtoken=81362474-52B1-4FA1-AEBB-FD6AF367DFB8)
+- Connecticut State Library
+  - Instructions:
+    - Follow [guide](https://portal.ct.gov/csl/about/how-to-get-a-connecticut-state-library-card) for free membership for CT residents
+  - Books
+    - [The Palace Project](https://thepalaceproject.org/platform/)
+
+- CT / New Haven / Yale free resources
+  - News
+    - [CT Mirror](https://ctmirror.org/)
+    - [New Haven Independent](https://www.newhavenindependent.org/)
+    - [Yale Daily News](https://yaledailynews.com/)
+  - Art event calendars
+    - [CT Sets](https://calendar.google.com/calendar/embed?src=ct.sets203%40gmail.com&ctz=America%2FNew_York)
+    - [Yale Art](http://events.yale.edu/calendar.ics?card_size=big&days=330&event_types%5B%5D=46013551058602&event_types%5B%5D=46013034592571&event_types%5B%5D=46012506201092&event_types%5B%5D=46013551053480&event_types%5B%5D=46013551077041&experience=&hide_recurring=1)
+    - [Ely Art Center](https://calendar.google.com/calendar/embed?src=c_dd17df28b4a158977c7c07771b8dc1dc19eb8cab3327d8ad080f1a4643738121%40group.calendar.google.com&ctz=America%2FNew_York)
+    - [NXTHVN](webcal://www.nxthvn.com/?post_type=tribe_events&ical=1&eventDisplay=list)
+  - Judaism
+    - News
+      - [Jewish Ledger](https://www.jewishledger.com/)
+    - Calendars
+      - [New Haven Jewish service](https://calendar.google.com/calendar/embed?src=83574bi3mssg7mnrkilpvt6fu9av3qtm%40import.calendar.google.com&ctz=America%2FNew_York)
+      - [Yale Slifka Center](https://calendar.google.com/calendar/embed?src=j6l7rnu2lf8d084i2q6ubjouirqc6cpp%40import.calendar.google.com&ctz=America%2FNew_York)
