@@ -104,7 +104,7 @@
     - [CT Sets](https://calendar.google.com/calendar/embed?src=ct.sets203%40gmail.com&ctz=America%2FNew_York)
     - [Yale Art](http://events.yale.edu/calendar.ics?card_size=big&days=330&event_types%5B%5D=46013551058602&event_types%5B%5D=46013034592571&event_types%5B%5D=46012506201092&event_types%5B%5D=46013551053480&event_types%5B%5D=46013551077041&experience=&hide_recurring=1)
     - [Ely Art Center](https://calendar.google.com/calendar/embed?src=c_dd17df28b4a158977c7c07771b8dc1dc19eb8cab3327d8ad080f1a4643738121%40group.calendar.google.com&ctz=America%2FNew_York)
-    - [NXTHVN](webcal://www.nxthvn.com/?post_type=tribe_events&ical=1&eventDisplay=list)
+    - [NXTHVN](https://www.nxthvn.com/?post_type=tribe_events&ical=1&eventDisplay=list)
   - Judaism
     - News
       - [Jewish Ledger](https://www.jewishledger.com/)
